@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "Write 3 Javascript Tips for Beginners in short and precise answers.",
+    "response": "1. **Use console.log() for debugging:** Print values to the console to track the flow of your code and identify errors.\n2. **Use strict mode:** Enable strict mode to enforce stricter rules and prevent common mistakes.\n3. **Use arrow functions:** Use arrow functions (=>) for concise and readable code, especially when working with callbacks.",
+    "timestamp": 1708522715840
+  },
+  {
+    "prompt": "When was the Leaning Tower of Pisa founded?",
+    "response": "1173",
+    "timestamp": 1708522845957
+  }
+]
